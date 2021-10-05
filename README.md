@@ -38,7 +38,7 @@
 ## 附件📎
 |    软件    |         下载地址         |
 | :--------: | :------------------: |
-|    对应版本的opencore configurator    |  [Github](https://github.com/junjunya2020/MSI-H410M-A-PRO-OpenCore-EFI/releases/download/untagged-170de6cab6ac0de5b38c/OpenCore.Configurator.app.zip)  |
+|    对应版本的opencore configurator    |  [Github](https://github.com/junjunya2020/MSI-H410M-A-PRO-OpenCore-EFI/releases/download/1.1/OpenCore.Configurator.app.zip)  |
 |    hackintool    |  [Github](https://github.com/junjunya2020/MSI-H410M-A-PRO-OpenCore-EFI/releases/download/1.1/Hackintool.app.zip)  |
 |    cpu-s    |  [Github](https://github.com/junjunya2020/MSI-H410M-A-PRO-OpenCore-EFI/releases/download/1.1/CPU-S_v4.3.3.dmg)  |
 |    VideoProc 4K    |  [Github](https://github.com/junjunya2020/MSI-H410M-A-PRO-OpenCore-EFI/releases/download/1.1/VideoProc.4K.app.zip)  |
